@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imShubh-am
-- 👀 I’m interested in ...Frontend Development
-- 🌱 I’m currently learning ...React.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Backend Development with Java, SpringBoot
+- 🌱 I’m currently learning ...Microservices architecture
+- 💞️ I’m looking to collaborate on ...Open Source
 - 📫 How to reach me ...through my mail- shubhammani8809@gmail.com
 
 <!---
